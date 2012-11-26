@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Player Archive"
+	"version"			"0.2"
+	"up_date"			"November 23rd, 2012"
+	"author_name"		"Charlie (King Recycle)"
+	"author_email"		""
+	"author_url"		""
+	"info"				"A script that keeps track of what players do in a session."
+	"override"			"0"
+}
