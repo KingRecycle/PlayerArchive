@@ -1,4 +1,4 @@
-AddCSLuaFile( "autorun/client/cl_player_events.lua" )
+--AddCSLuaFile( "playerarchive/cl_player_events.lua" )
 local EVENTS = {}
 local ARCHIVE = {}
 

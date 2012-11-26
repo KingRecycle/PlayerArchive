@@ -1,5 +1,5 @@
 --Require Atlas. Helps keep code clean with simple Derma creation
-include("autorun/client/atlas.lua")
+--include("autorun/atlas.lua")
 
 --Local variables and what nots
 local SW = ScrW()/2
